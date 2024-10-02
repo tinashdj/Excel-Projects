@@ -12,4 +12,9 @@ Performed data cleaning and data analysis to create a KPI Dashboard of Total Cas
 ![Road Accident](https://github.com/user-attachments/assets/606766de-272b-4924-b697-08ee7a04af97)
 
 
+### Supply Chain and Freight Analytics Dashboard
+
+![Supply Chain and Freight Analytics Dashboard](https://github.com/user-attachments/assets/ab31b3d5-ebd5-4c04-bbdb-f5408609852b)
+
+
 
